@@ -1,0 +1,12 @@
+#app {
+  margin-left: 40%;
+  font-size: 30px;
+}
+#app h2 {
+  text-decoration: underline;
+  color:red;
+}
+#app li {
+  color:red;
+  cursor: pointer;
+}
